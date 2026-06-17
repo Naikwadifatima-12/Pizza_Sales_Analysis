@@ -32,7 +32,6 @@ import warnings
 - Which are the Top 5 best-selling pizzas by quantity, orders, and revenue?
 - Which are the Bottom 5 worst-selling pizzas by revenue?
 - Which ingredients are used the most across all pizzas?
-- Dashboard Interaction <a href="#">View Notebook</a>
 
 ## Process
 - Loaded the dataset from Excel and explored its shape, data types, and statistical summary using `df.info()`, `df.dtypes`, and `df.describe()`.
@@ -61,8 +60,3 @@ To improve pizza sales, a strategic plan should focus on **promoting best-sellin
 ## Tools Used
 - **Python** — NumPy, Pandas, Matplotlib, Seaborn, Plotly Express
 - **Jupyter Notebook**
-
-## 👩‍💻 Author
-**Fatimajohra Naikwadi**  
-Data Analyst | Excel · SQL · Power BI · Tableau · Python  
-[LinkedIn](#) · [GitHub](#)
