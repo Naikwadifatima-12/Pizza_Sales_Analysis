@@ -4,7 +4,7 @@
 To analyze pizza sales data to uncover revenue trends, best and worst performing products, customer ordering patterns by time, and sales distribution across categories and sizes. So that, the business owner can make data-driven decisions to maximize revenue and optimize the menu.
 
 ## Dataset used
-- <a href="#">Dataset</a>
+- <a href="https://github.com/Naikwadifatima-12/Pizza_Sales_Analysis/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
 
 ## Libraries Used
 ```python
