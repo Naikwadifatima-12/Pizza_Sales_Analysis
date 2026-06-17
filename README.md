@@ -43,7 +43,8 @@ import warnings
 - Created 12+ charts using Matplotlib, Seaborn, and Plotly to answer each business question.
 
 ## Dashboard
-- [Dataset](https://github.com/Naikwadifatima-12/Pizza_Sales_Analysis/blob/main/Pizza%20Sales%20Analysis%20project%20copy.ipynb)
+- [View Notebook](https://github.com/Naikwadifatima-12/Pizza_Sales_Analysis/blob/main/Pizza%20Sales%20Analysis%20project%20copy.ipynb)
+  
 ## Project Insight
 - **Friday and Saturday** are the busiest days, generating the highest number of orders and revenue across the week.
 - **Lunch (12 PM – 1 PM) and Dinner (5 PM – 8 PM)** hours are peak ordering times, showing clear meal-time demand spikes.
